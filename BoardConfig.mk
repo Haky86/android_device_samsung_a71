@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+BOARD_VENDOR := samsung
+
 BUILD_BROKEN_VENDOR_PROPERTY_NAMESPACE := true
 
 DEVICE_PATH := device/samsung/a71
@@ -153,6 +155,9 @@ TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_CLANG_COMPILE := true
 TARGET_KERNEL_CONFIG := a71_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/sm7150
+
+# Keymaster
+TARGET_KEYMASTER_VARIANT := samsung
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 67108864
