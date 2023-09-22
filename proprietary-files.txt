@@ -1162,8 +1162,8 @@ vendor/lib64/libqrtr.so
 vendor/lib64/libqsocket.so
 -vendor/lib64/libril.so
 vendor/lib64/librilqmiservices-ext.so
-vendor/lib64/libsec-ril-dsds.so
-vendor/lib64/libsec-ril.so
+vendor/lib64/libsec-ril-dsds.so|6086ffb3ac5494e23efbacf87bf20ae9ed88a88d
+vendor/lib64/libsec-ril.so|43788ac4a769c376f6f056dfcb8b9b4f9738438e
 vendor/lib64/libsec_semRil.so
 vendor/lib64/libsecril-client.so
 vendor/lib64/libsemnativecarrierfeature.so
