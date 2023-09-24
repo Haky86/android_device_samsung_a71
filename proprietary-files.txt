@@ -358,34 +358,6 @@ vendor/lib64/soundfx/libsamsungSoundbooster_plus.so
 vendor/lib64/soundfx/libshoebox.so
 vendor/lib64/soundfx/libswdap.so
 
-# Audio SoundFX
-vendor/lib/soundfx/libasphere.so
-vendor/lib/soundfx/libaudioeffectoffload.so
-vendor/lib/soundfx/libaudiosaplus_sec.so
-vendor/lib/soundfx/libgearvr.so
-vendor/lib/soundfx/libmysound.so
-vendor/lib/soundfx/libmyspace.so
-vendor/lib/soundfx/libplaybackrecorder.so
-vendor/lib/soundfx/libqcbassboost.so
-vendor/lib/soundfx/libqcreverb.so
-vendor/lib/soundfx/libqcvirt.so
-vendor/lib/soundfx/libsamsungSoundbooster_plus.so
-vendor/lib/soundfx/libshoebox.so
-vendor/lib/soundfx/libswdap.so
-vendor/lib64/soundfx/libasphere.so
-vendor/lib64/soundfx/libaudioeffectoffload.so
-vendor/lib64/soundfx/libaudiosaplus_sec.so
-vendor/lib64/soundfx/libgearvr.so
-vendor/lib64/soundfx/libmysound.so
-vendor/lib64/soundfx/libmyspace.so
-vendor/lib64/soundfx/libplaybackrecorder.so
-vendor/lib64/soundfx/libqcbassboost.so
-vendor/lib64/soundfx/libqcreverb.so
-vendor/lib64/soundfx/libqcvirt.so
-vendor/lib64/soundfx/libsamsungSoundbooster_plus.so
-vendor/lib64/soundfx/libshoebox.so
-vendor/lib64/soundfx/libswdap.so
-
 # Bluetooth
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc
