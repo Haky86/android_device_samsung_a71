@@ -205,7 +205,6 @@ PRODUCT_PACKAGES += \
 # FM
 PRODUCT_PACKAGES += \
     android.hardware.broadcastradio@1.0-impl \
-    android.hardware.broadcastradio@1.1-service \
 
 PRODUCT_PACKAGES += \
     FM2 \
